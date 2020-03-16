@@ -1,0 +1,4 @@
+powerlaw
+scipy
+numpy
+pandas
